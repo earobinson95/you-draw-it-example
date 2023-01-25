@@ -24,7 +24,7 @@ ui <- navbarPage(
         helpText(h4("Use your mouse to fill in the trend in the yellow box region")),
         d3Output("shinydrawr", height = "500px"),
         br(),
-        actionButton("eyefitting_reset", "Reset")
+        actionButton("reset", "Reset")
       )
     )
   )

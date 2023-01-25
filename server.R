@@ -141,7 +141,7 @@ server <- function(input, output, session){
   
   linear_data <- reactive({
     
-    input$eyefitting_reset
+    input$reset
     
     tibble(
       dataset = c("S"),
