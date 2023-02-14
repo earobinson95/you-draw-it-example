@@ -18,6 +18,8 @@ Test out the development applet [here](https://emily-robinson.shinyapps.io/can-y
 
 + Amelia Wattenberger's [Full Stack D3 and Data Visualization Book](https://www.newline.co/fullstack-d3)
 
++ [r2d3 R Package documentation](https://rstudio.github.io/r2d3/articles/learning_d3.html)
+
 + Build a basic graphic using [r2d3](https://rstudio.github.io/r2d3/articles/introduction.html)
 
 + Modify `D3.js` code until it does what you want!
